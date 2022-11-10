@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="register">REGISTER</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="login">Already registered. Login Me!</string>
+    <string name="just_image">Just Image</string>
+    <string name="register_with_other_methods">Register with other methods</string>
+    <string name="confirm">Confirm</string>
+    <string name="phone">Phone</string>
+    <string name="e_mail">E-mail</string>
+    <string name="lastname">Lastname</string>
+    <string name="firstname">Firstname</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="repeat_the_password">Repeat the password</string>
+    <string name="show_hide_password">show / hide password</string>
+    <string name="show">Show</string>
+    <string name="registration_successful">Registration successful</string>
+    <string name="here_might_be_a_list_of_movies">Here might be a list of movies</string>
+    <string name="dragonballImage">"https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fwww.radiotimes.com%2Ftv%2Ffantasy%2Fdragonball-in-order-how-to-watch%2F&amp;psig=AOvVaw2Ujsk0leAUv-saHoIQCjO8&amp;ust=1667992274435000&amp;source=images&amp;cd=vfe&amp;ved=0CA0QjRxqFwoTCID8s8m5nvsCFQAAAAAdAAAAABAE"</string>
+    <string name="Movies_onCreate">MoviesActivity onCreated</string>
+</resources>

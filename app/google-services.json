@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "712086988520",
+    "firebase_url": "https://movieapp-55bc0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "movieapp-55bc0",
+    "storage_bucket": "movieapp-55bc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712086988520:android:a92126a3ad07515093cb5d",
+        "android_client_info": {
+          "package_name": "project.faist.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712086988520-7itj3lp4jicf406o7rq76qoor21p6kmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5I-6IzlPvgap03xCHpS7Xe--sk8jJDA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712086988520-7itj3lp4jicf406o7rq76qoor21p6kmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
